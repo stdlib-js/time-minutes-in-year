@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minutesInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-minutes-in-year@esm/index.mjs';
+import minutesInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-minutes-in-year@v0.0.9-esm/index.mjs';
 ```
 
 #### minutesInYear( \[value] )
@@ -82,7 +82,7 @@ num = minutesInYear( 2017 );
 <body>
 <script type="module">
 
-import minutesInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-minutes-in-year@esm/index.mjs';
+import minutesInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-minutes-in-year@v0.0.9-esm/index.mjs';
 
 var v;
 var i;
