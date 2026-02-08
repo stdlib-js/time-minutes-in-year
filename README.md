@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minutesInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-minutes-in-year@deno/mod.js';
+import minutesInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-minutes-in-year@v0.2.3-deno/mod.js';
 ```
 
 #### minutesInYear( \[value] )
@@ -88,7 +88,7 @@ num = minutesInYear( 2017 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import minutesInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-minutes-in-year@deno/mod.js';
+import minutesInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-minutes-in-year@v0.2.3-deno/mod.js';
 
 var v;
 var i;
